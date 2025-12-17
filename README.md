@@ -45,3 +45,8 @@ Distribution analysis across clusters
 Sample Size Planning
 
 Estimation of required number of clusters for desired precision
+
+Prerequisites
+
+To run the application, install the following:
+install.packages(c("shiny", "ggplot2", "dplyr", "DT", "bslib"))
